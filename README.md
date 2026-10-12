@@ -1,4 +1,5 @@
 Hola, soy Diego García
+
 Técnico en Análisis y Programación de Software, con experiencia en soporte de TI y servicio al cliente. Actualmente me estoy formando para avanzar hacia un puesto de analista de datos junior.
 
 Objetivo profesional
