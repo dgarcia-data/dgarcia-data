@@ -1,16 +1,26 @@
-## Hi there 👋
+Hola, soy Diego García
+Técnico en Análisis y Programación de Software, con experiencia en soporte de TI y servicio al cliente. Actualmente me estoy formando para avanzar hacia un puesto de analista de datos junior.
 
-<!--
-**dgarcia-data/dgarcia-data** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Objetivo profesional
+Desarrollar proyectos que demuestren mi capacidad para limpiar, analizar y visualizar datos, proporcionando hallazgos útiles para la toma de decisiones.
 
-Here are some ideas to get you started:
+Actualmente estoy aprendiendo
+SQL
+Excel
+Power BI
+Estadística aplicada
+Python, próximamente
+Proyectos en desarrollo
+Análisis de ventas de una tienda
+Análisis de clientes y rotación
+Análisis con datos abiertos de Colombia
+Experiencia que aporto
+Soporte técnico de TI
+Servicio al cliente
+Análisis y programación de software
+Manejo general de sistemas e información
+Mi ruta de aprendizaje
+Actualmente estoy documentando mi formación y mis ejercicios en GitHub. Los proyectos se publicarán a medida que complete cada fase.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Contacto
+LinkedIn: www.linkedin.com/in/diego-alejandro-garcia-cardona
